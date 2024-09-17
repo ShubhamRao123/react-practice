@@ -1,0 +1,21 @@
+.container{
+    width: 15em;
+    margin: 0 1em;
+    float: left;
+}
+
+.pic img{
+    width: 100%;
+}
+
+.title{
+    margin-bottom: 1em;
+}
+
+.channel .view{
+    margin-bottom: 1em;
+}
+
+.view span{
+    padding: 0 0.25em;
+}

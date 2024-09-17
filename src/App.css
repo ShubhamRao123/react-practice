@@ -1,0 +1,12 @@
+.app{
+  width: 100%;
+  min-height: 100%;
+  background-color: #333;
+  margin-top: 0;
+  padding: 0;
+  color: white;
+}
+
+.app h1{
+  margin-left: .5em;
+}
